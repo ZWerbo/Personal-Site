@@ -182,7 +182,8 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffffff !important;
+			/* color: #ffffff !important; */
+			color: crimson;
 		}
 
 		a.special:not(.button) {
@@ -4152,3 +4153,4 @@ input, select, textarea {
 		}
 
 	}
+
